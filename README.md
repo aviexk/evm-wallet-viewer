@@ -2,6 +2,12 @@
 
 A clean and intuitive web interface for viewing cryptocurrency wallet balances and token holdings across EVM-compatible blockchains.
 
+## Preview
+
+https://github.com/user-attachments/assets/preview.mov
+
+*Wallet UI in action - view token balances and portfolio values in real-time*
+
 ## Features
 
 - 🔍 View wallet token balances by entering any EVM wallet address
